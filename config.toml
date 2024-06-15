@@ -5,7 +5,7 @@ theme = "coming-soon"
     title = "serioli.dev" 
     description = "development that matters"
     favicon = ""
-    message = "T- Lauch Time | serioli_development" 
+    message = "serioli_development | T- " 
     release = "October 11, 2024" 
     background = "" 
 
@@ -20,5 +20,4 @@ socialIcons = [
 ] 
 
 [params.twitter]
-	enable = false 
-	username = "mansoorbarri"
+	enable = false
