@@ -14,6 +14,3 @@ socialIcons = [
     {name = "github", url = "https://github.com/StuSerious"},
     {name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/"},
 ] 
-
-[params.twitter]
-	enable = false
