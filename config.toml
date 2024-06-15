@@ -1,0 +1,24 @@
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "serioli.dev" 
+    description = "development that matters"
+    favicon = ""
+    message = "T- Lauch Time | serioli_development" 
+    release = "October 11, 2024" 
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "info@serioli.dev"},      
+    {name = "twitter", url = "https://twitter.com/"},    
+    {name = "facebook", url = "https://facebook.com/"},    
+    {name = "github", url = "https://github.com/StuSerious"},    
+    {name = "instagram", url = "https://instagram.com/"},    
+    {name = "tiktok", url = "https://tiktok.com/"},    
+    {name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/"},    
+] 
+
+[params.twitter]
+	enable = false 
+	username = "mansoorbarri"
