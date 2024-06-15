@@ -10,13 +10,9 @@ theme = "coming-soon"
     background = "" 
 
 socialIcons = [
-    {name = "email", url = "info@serioli.dev"},      
-    {name = "twitter", url = "https://twitter.com/"},    
-    {name = "facebook", url = "https://facebook.com/"},    
-    {name = "github", url = "https://github.com/StuSerious"},    
-    {name = "instagram", url = "https://instagram.com/"},    
-    {name = "tiktok", url = "https://tiktok.com/"},    
-    {name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/"},    
+    {name = "email", url = "info@serioli.dev"},
+    {name = "github", url = "https://github.com/StuSerious"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/"},
 ] 
 
 [params.twitter]
