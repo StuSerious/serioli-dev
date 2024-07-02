@@ -3,7 +3,7 @@ theme = "coming-soon"
 
 [params]
 title = "serioli_development"
-description = "where the magic happens"
+description = ""
 favicon = ""
 message = "coming soon..."
 release = "November 3, 2024"
