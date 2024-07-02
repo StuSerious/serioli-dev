@@ -2,15 +2,15 @@ languageCode = 'en-us'
 theme = "coming-soon"
 
 [params]
-    title = "serioli.dev" 
-    description = "where the magic happens"
-    favicon = ""
-    message = "coming soon..." 
-    release = "October 11, 2024" 
-    background = "" 
+title = "serioli_development"
+description = "where the magic happens"
+favicon = ""
+message = "coming soon..."
+release = "November 3, 2024"
+background = ""
 
 socialIcons = [
-    {name = "email", url = "info@serioli.dev"},
-    {name = "github", url = "https://github.com/StuSerious"},
-    {name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/"},
-] 
+    { name = "email", url = "info@serioli.dev" },
+    { name = "github", url = "https://github.com/StuSerious" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/stefano-serioli-705b56159/" },
+]
